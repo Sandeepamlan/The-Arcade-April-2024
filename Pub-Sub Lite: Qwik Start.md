@@ -1,0 +1,11 @@
+## Pub/Sub Lite: Qwik Start [gsp832]
+
+```
+export REGION=
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/PubSub%20Lite%20Qwik%20Start/quicklabgsp832.sh
+
+sudo chmod +x quicklabgsp832.sh
+
+./quicklabgsp832.sh
+```
